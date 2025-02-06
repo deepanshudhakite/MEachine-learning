@@ -5,7 +5,6 @@ Machine learning is a branch of artificial intelligence (AI) that involves devel
 
 ## Screenshots
 
-![App Screenshot](https://github.com/deepanshudhakite/MEachine-learning/blob/main/Unknown.jpeg)
 
 
 
